@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "FCTestModel.h"
+#import "FCTestSubModel.h"
 
 @interface ViewController : UIViewController
 
